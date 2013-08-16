@@ -8,4 +8,7 @@ Project Owner: Malla Nandikonda malla.nandikonda@kony.com
 Purpose
 To showcases FFI capabilities of Kony Studio.
 
-Supported Platforms : Android Nativeand Android tablet
+Supported Platforms : 
+
+* Android Native
+* Android tablet
