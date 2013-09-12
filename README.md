@@ -9,5 +9,8 @@ To showcases FFI capabilities of Kony Studio.
 
 Supported Platforms : 
 
-* Android Native
-* Android tablet
+**Mobile**
+ * Android
+
+**Tablet** 
+ * Anroid
