@@ -13,4 +13,4 @@ Supported Platforms :
  * Android
 
 **Tablet** 
- * Anroid
+ * Android
