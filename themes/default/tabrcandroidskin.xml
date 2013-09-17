@@ -11157,10 +11157,10 @@
         <att name="FontNameMap" value="XHTML Adv Android,Helvetica Neue" type="map"/>
         <att name="FontNameMap" value="Android,monospace" type="map"/>
         <att name="FontNameMap" value="XHTML Adv Blackberry,Helvetica Neue" type="map"/>
-        <att name="FontNameMap" value="IPhone,HelveticaNeue" type="map"/>
         <att name="FontNameMap" value="XHTML Adv IPhone,Helvetica Neue" type="map"/>
-        <att name="FontNameMap" value="Android Rich Client Tablet,monospace" type="map"/>
+        <att name="FontNameMap" value="IPhone,HelveticaNeue" type="map"/>
         <att name="FontNameMap" value="PlayBook,BBClarity" type="map"/>
+        <att name="FontNameMap" value="Android Rich Client Tablet,monospace" type="map"/>
         <att name="FontNameMap" value="Blackberry,BBClarity" type="map"/>
         <att name="ApplicablePlatforms" value="1111100111110111111111111111111" type="String"/>
         <att name="UseNative" value="false" type="Boolean"/>
@@ -12818,7 +12818,7 @@
         <att name="Bg_spawindows_tablet_image" value="" type="String"/>
         <att name="Font_weight" value="normal" type="String"/>
         <att name="Font_style" value="none" type="String"/>
-        <att name="Font_size" value="220" type="String"/>
+        <att name="Font_size" value="225" type="String"/>
         <att name="Font_color" value="0,0,0" type="RGB"/>
         <att name="Font_color_alpha" value="0" type="String"/>
         <att name="Rightfont_weight" value="normal" type="String"/>
