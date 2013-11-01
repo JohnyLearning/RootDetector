@@ -575,7 +575,7 @@
                 <function>None</function>
                 <serviceType>0</serviceType>
             </leftImgEvtData>
-            <leftPrevTitle>false</leftPrevTitle>
+            <leftPrevTitle>true</leftPrevTitle>
             <leftSideView>0</leftSideView>
             <leftTitle></leftTitle>
             <leftTitleEvtData>
@@ -2770,6 +2770,7 @@
         </children>
         <overrideProperties>KForm.androidtitleBar</overrideProperties>
         <overrideProperties>KForm.ipad_Orientation</overrideProperties>
+        <overrideProperties>KForm.ipadtitleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>

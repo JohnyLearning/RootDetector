@@ -6,7 +6,9 @@
 ************************************************************************************************/
 
 function detectroot(){
+	kony.print("rooted:"+rootdetection.isRooted());
 	if ( rootdetection.isRooted()>=1){
+	kony.print("rooted:"+rootdetection.isRooted());
 		alert("The Device is Rooted");
 		
 	}else{

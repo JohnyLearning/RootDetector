@@ -575,8 +575,8 @@
                 <function>None</function>
                 <serviceType>0</serviceType>
             </leftImgEvtData>
-            <leftPrevTitle>false</leftPrevTitle>
-            <leftSideView>0</leftSideView>
+            <leftPrevTitle>true</leftPrevTitle>
+            <leftSideView>1</leftSideView>
             <leftTitle></leftTitle>
             <leftTitleEvtData>
                 <function>None</function>
@@ -593,7 +593,7 @@
             <rightTitleI18Key>None</rightTitleI18Key>
             <rightbtnImgPath></rightbtnImgPath>
             <rightbuttonI18Key>None</rightbuttonI18Key>
-            <skinID>Skin Defaults</skinID>
+            <skinID>sknTitleBarSampleApp</skinID>
             <usrDefFunction></usrDefFunction>
             <visible>true</visible>
             <textChecked>true</textChecked>
@@ -3381,6 +3381,7 @@
             <bb10_contentalignment>0</bb10_contentalignment>
         </children>
         <overrideProperties>KForm.androidtitleBar</overrideProperties>
+        <overrideProperties>KForm.ipadtitleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>
