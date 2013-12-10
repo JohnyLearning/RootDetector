@@ -1,3 +1,5 @@
+To get started, first click the Download ZIP button to the right to download this tutorial's assets.
+
 RootDetector
 ============
 RootDetector is a FFI APP for Android and Iphone which shows if the device in which the application is installed is rooted/jail broken.
